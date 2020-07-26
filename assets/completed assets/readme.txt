@@ -1,0 +1,1 @@
+All completed assets
