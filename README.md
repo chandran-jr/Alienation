@@ -1,7 +1,7 @@
 # alienation
 A simple UFO Coin game created using Unity 
 
-I used Visual Studio for coding the scripys in C#
+I used Visual Studio for coding the scripts in C#
 
 The gravity for all the sprites was set to 0
 
